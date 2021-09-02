@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @IvarWo
-\n Im currently learning Python.
+- Im currently learning Python.
